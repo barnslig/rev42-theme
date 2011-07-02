@@ -1,0 +1,50 @@
+/* (cc) by-sa by the rev.42 team */
+body {
+	font-family:	sans-serif;
+	background:		black;
+	color:			white;
+}
+
+a {
+	color:			white;
+	text-decoration:underline;
+}
+a:hover {
+	text-decoration:none;
+}
+
+img#github {
+	position:		absolute;
+	top:			0; 
+	right:			0;
+	border:			0;
+}
+
+div#center {
+	width:			45%;
+	margin:			auto;
+	overflow:		hidden;
+}
+
+header {
+	text-align:		center;
+}
+
+article {
+	border:			1px gray solid;
+	padding-left:	20px;
+	padding-right:	20px;
+}
+article h2 {
+	font-style:		italic;
+	padding-bottom:	5px;
+	border-bottom:	1px lightgray dotted;
+}
+article p {
+	margin-left:	7px;
+}
+
+footer {
+	font-size:		11px;
+	margin:			5px;
+}
