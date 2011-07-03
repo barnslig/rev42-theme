@@ -48,3 +48,9 @@ footer {
 	font-size:		11px;
 	margin:			5px;
 }
+footer section#left {
+	float:			left;
+}
+footer section#right {
+	float:			right;
+}
